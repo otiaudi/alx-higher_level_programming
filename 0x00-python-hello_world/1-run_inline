@@ -1,4 +1,5 @@
 #!/bin/bash
-python3 $PYCODE
+python3 -c $PYCODE
+
 
 
