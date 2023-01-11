@@ -1,7 +1,6 @@
 # 0x0B. Python - Input/Output
 <html>
 <head>
-<title>input and putput</title>
 <body>
 <a href="https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files ">Reading and Writing Files</a>
 
